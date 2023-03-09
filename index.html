@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Spielplätze in Flensburg</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+    <link crossorigin="" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+          integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+          rel="stylesheet">
+    <link href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" rel="stylesheet">
+    <link href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" rel="stylesheet">
+    <link href="https://unpkg.com/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.css" rel="stylesheet">
+    <link href="https://unpkg.com/tailwindcss@2.0.1/dist/tailwind.min.css" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">
+
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet-src.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder@2.4.0/dist/Control.Geocoder.js"></script>
+</head>
+<body>
+<div class="h-screen md:flex overflow-auto">
+    <div class="w-full sm:w-8/12 md:w-7/12 lg:w-9/12 h-96 sm:h-screen overflow-hidden" id="map"></div>
+    <div class="w-full sm:w-4/12 md:w-5/12 lg:w-3/12 sm:h-screen sm:overflow-scroll bg-gray-100" id="filter">
+        <div class="bg-gray-300">
+            <div class="hidden py-2 px-3" id="details">
+                <div id="img"></div>
+                <div class="font-bold">Adresse</div>
+                <div class="mb-2" id="address"></div>
+                <div class="font-bold">Spielgeräte</div>
+                <div class="mb-2" id="attributes"></div>
+            </div>
+        </div>
+        <div class="py-2 px-3">
+            <h1 class="text-2xl md:text-3xl font-bold">
+                Spielplätze
+            </h1>
+            <h2 class="text-xl md:text-2xl mb-4 md:mb-8">
+                in Flensburg
+            </h2>
+            <h2 class="text-xl md:text-2xl mb-1 md:mb-3">
+                Datenquelle
+            </h2>
+            <p class="font-mono mb-4 md:mb-8">Die
+                <a class="text-blue-600 hover:text-blue-500 focus:text-blue:500"
+                   href="https://www.flensburg.de/media/custom/2306_4212_1.PDF"
+                   target="_blank">Stadt Flensburg</a> stellt hier eine Liste im PDF Format für Besucher der Spielplätze
+                zur Verfügung. Unser Ziel ist es Interessierten eine Nutzung der offenen Daten mit wenig Arbeit und
+                einem
+                Mehrwert anzubieten.
+            </p>
+            <h3 class="md:text-xl mb-1 md:mb-3">Interaktive Karte</h3>
+            <p class="font-mono">Diese interaktive webbasierte Karte ist auf Basis der Daten der oben aufgeführten Liste
+                entstanden. Doch wir mussten für die Darstellung der Spielplätze auf einer webbasierten Karte noch
+                weitere Informationen finden, so haben wir auf den Seiten des
+                <a class="text-blue-600 hover:text-blue-500 focus:text-blue:500"
+                   href="https://www.tbz-flensburg.de/%C3%96ffentliches-Gr%C3%BCn/Spielfl%C3%A4chen/"
+                   target="_blank">TBZ Flensburg</a> recherchiert und sogar eine Karte
+                gefunden. Doch ist diese Karte der "Spielfächen" sowie sie im Amtsdeutsch bezeichnet wurde, weder
+                schnell im Netz auffindbar noch für den nicht IT interessierten Besucher gut nutzbar. Nach einigen
+                Stunden des reverse Engineerings konnten wir die Daten extrahieren und mittels einem selbst
+                geschriebenen Python Skripts in ein maschinenlesbares offenes Format nach der Spezifikation
+                <a class="text-blue-600 hover:text-blue-500 focus:text-blue:500"
+                   href="https://www.tbz-flensburg.de/%C3%96ffentliches-Gr%C3%BCn/Spielfl%C3%A4chen/"
+                   target="_blank">RFC 7946</a> umgewandelt und auf Basis der OpenSteetMap Karte dargestellt.
+            </p>
+        </div>
+    </div>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
