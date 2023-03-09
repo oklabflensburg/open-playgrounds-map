@@ -1,0 +1,2326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.788259,
+                    9.451032
+                ]
+            },
+            "properties": {
+                "name": "Am Sender",
+                "object": "2693.192.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Federwipper",
+                    "Karussell",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Turngerät",
+                    "Überdachung"
+                ],
+                "image_id": "2693.735.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_735_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.779498,
+                    9.457104
+                ]
+            },
+            "properties": {
+                "name": "Angelsunder Weg",
+                "object": "2693.193.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hängematte",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Turngerät",
+                    "Turmrutsche",
+                    "Wippe"
+                ],
+                "image_id": "2693.736.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_736_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.782146,
+                    9.428276
+                ]
+            },
+            "properties": {
+                "name": "Anthon",
+                "object": "2693.301.1",
+                "attributes": [
+                    "Karussell",
+                    "Multifunktionsgerät",
+                    "Sandkasten",
+                    "Schaukel",
+                    "Rutsche",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.821.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_821_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.808699,
+                    9.479275
+                ]
+            },
+            "properties": {
+                "name": "Birkenhof",
+                "object": "2693.194.1",
+                "attributes": [
+                    "Federgerät",
+                    "Sandkasten",
+                    "Wippe"
+                ],
+                "image_id": "2693.737.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_737_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.787151,
+                    9.443484
+                ]
+            },
+            "properties": {
+                "name": "Bremer Platz",
+                "object": "2693.195.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Sandspiel",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.738.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_738_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795904,
+                    9.479839
+                ]
+            },
+            "properties": {
+                "name": "Bürgerpark Twedt",
+                "object": "2693.196.1",
+                "attributes": [
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Rutsche",
+                    "Sandspielgerät",
+                    "Schaukel",
+                    "Seilgerät",
+                    "Tor"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.773483,
+                    9.433447
+                ]
+            },
+            "properties": {
+                "name": "Diblerstraße",
+                "object": "2693.197.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Federwipper",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielturm",
+                    "Sandkasten",
+                    "Turngerät",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.739.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_739_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.790906,
+                    9.473873
+                ]
+            },
+            "properties": {
+                "name": "Engelsbyer Schule",
+                "object": "2693.198.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Federwipper",
+                    "Karussell",
+                    "Schaukel",
+                    "Spielturm",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Skate-Anlage",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Wasserspiel"
+                ],
+                "image_id": "2693.740.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_740_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.755867,
+                    9.39625
+                ]
+            },
+            "properties": {
+                "name": "Eschenweg",
+                "object": "2693.199.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Rutsche",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.811.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_811_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.79158,
+                    9.441563
+                ]
+            },
+            "properties": {
+                "name": "Friedagang",
+                "object": "2693.200.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.743.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_743_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.804661,
+                    9.475182
+                ]
+            },
+            "properties": {
+                "name": "Friedheimer Platz",
+                "object": "2693.201.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Bank",
+                    "Federwipper",
+                    "Hängematte",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Tischtennisplatte",
+                    "Wippe"
+                ],
+                "image_id": "2693.744.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_744_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.794902,
+                    9.460784
+                ]
+            },
+            "properties": {
+                "name": "Fruerlundhof",
+                "object": "2693.189.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Tor"
+                ],
+                "image_id": "2693.741.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_741_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.801124,
+                    9.425159
+                ]
+            },
+            "properties": {
+                "name": "Galwik-Park",
+                "object": "2693.202.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Wasserspiel"
+                ],
+                "image_id": "2693.745.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_745_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.798508,
+                    9.45837
+                ]
+            },
+            "properties": {
+                "name": "Gammeldamm",
+                "object": "2693.203.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.746.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_746_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.760145,
+                    9.381326
+                ]
+            },
+            "properties": {
+                "name": "Gartenstadt",
+                "object": "2693.190.1",
+                "attributes": [
+                    "Federwipper",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.742.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_742_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.796711,
+                    9.425894
+                ]
+            },
+            "properties": {
+                "name": "Gartenstraße",
+                "object": "2693.204.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Brücke",
+                    "Kleinspielfeld",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Spielhaus",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.747.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_747_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.762435,
+                    9.386766
+                ]
+            },
+            "properties": {
+                "name": "Gletscherbogen",
+                "object": "2693.284.1",
+                "attributes": [
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.807.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_807_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.773811,
+                    9.481523
+                ]
+            },
+            "properties": {
+                "name": "Groß Tarup Indianerspielplatz",
+                "object": "2693.282.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandspielgerät",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.805.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_805_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.782975,
+                    9.477092
+                ]
+            },
+            "properties": {
+                "name": "Grußkuhle",
+                "object": "2693.205.1",
+                "attributes": [
+                    "Karussell",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.748.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_748_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.788333,
+                    9.43739
+                ]
+            },
+            "properties": {
+                "name": "Hafenspitze",
+                "object": "2693.206.1",
+                "attributes": [
+                    "Federwipper",
+                    "Schaukel",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.749.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_749_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.782663,
+                    9.452646
+                ]
+            },
+            "properties": {
+                "name": "Hele Mond",
+                "object": "2693.208.1",
+                "attributes": [
+                    "Hängematte",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.751.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_751_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.791104,
+                    9.41759
+                ]
+            },
+            "properties": {
+                "name": "Hermann-Löns-Weg",
+                "object": "2693.209.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Skate-Anlage",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.752.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_752_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795199,
+                    9.464936
+                ]
+            },
+            "properties": {
+                "name": "Hesttoft",
+                "object": "2693.210.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Sinnesspiel",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.753.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_753_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.767981,
+                    9.466964
+                ]
+            },
+            "properties": {
+                "name": "Hochfeld",
+                "object": "2693.211.1",
+                "attributes": [
+                    "Piratenschiff",
+                    "Piratendorf",
+                    "Balancierfässer",
+                    "Fasskarussell",
+                    "Piratennestschaukel"
+                ],
+                "image_id": "2693.754.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_754_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.757966,
+                    9.393032
+                ]
+            },
+            "properties": {
+                "name": "Holzkrugweg",
+                "object": "2693.212.1",
+                "attributes": [
+                    "Karussell",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Tor",
+                    "Überdachung"
+                ],
+                "image_id": "2693.755.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_755_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.820124,
+                    9.481555
+                ]
+            },
+            "properties": {
+                "name": "Inselblick",
+                "object": "2693.213.1",
+                "attributes": [
+                    "Federgerät",
+                    "Sandkasten",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.781342,
+                    9.449551
+                ]
+            },
+            "properties": {
+                "name": "Johannismühle",
+                "object": "2693.214.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Tischtennisplatte",
+                    "Wasserspiel",
+                    "Wippe"
+                ],
+                "image_id": "2693.757.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_757_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.801359,
+                    9.492327
+                ]
+            },
+            "properties": {
+                "name": "Kauslund-Osterfeld",
+                "object": "2693.215.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.758.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_758_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.814226,
+                    9.418298
+                ]
+            },
+            "properties": {
+                "name": "Klueser Weg",
+                "object": "2693.216.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Tor",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.759.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_759_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.781865,
+                    9.444058
+                ]
+            },
+            "properties": {
+                "name": "Konventgarten",
+                "object": "2693.217.1",
+                "attributes": [
+                    "Klettergerät"
+                ],
+                "image_id": "2693.760.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_760_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.784881,
+                    9.453971
+                ]
+            },
+            "properties": {
+                "name": "Lustgarten",
+                "object": "2693.218.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Klettergerät",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.761.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_761_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.786446,
+                    9.44173
+                ]
+            },
+            "properties": {
+                "name": "Margarethenpark",
+                "object": "2693.219.1",
+                "attributes": [
+                    "Federwipper",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.762.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_762_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.791983,
+                    9.428394
+                ]
+            },
+            "properties": {
+                "name": "Margarethenstraße",
+                "object": "2693.220.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Hängematte",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.763.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_763_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.771453,
+                    9.469614
+                ]
+            },
+            "properties": {
+                "name": "Maria-Christina-Lorck-Straße",
+                "object": "2693.221.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Sandspielgerät",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.764.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_764_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.782016,
+                    9.419961
+                ]
+            },
+            "properties": {
+                "name": "Marienallee",
+                "object": "2693.222.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Karussell",
+                    "Kreisel",
+                    "Schaukel",
+                    "Seilbahn",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Überdachung"
+                ],
+                "image_id": "2693.765.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_765_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.778582,
+                    9.40993
+                ]
+            },
+            "properties": {
+                "name": "Marienhöhe",
+                "object": "2693.300.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Rutsche",
+                    "Sandkasten",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Tischtennisplatte",
+                    "Tor",
+                    "Turngerät"
+                ],
+                "image_id": "2693.820.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_820_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.791018,
+                    9.397688
+                ]
+            },
+            "properties": {
+                "name": "Marienhölzung",
+                "object": "2693.223.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Kreisel",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.766.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_766_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.812953,
+                    9.477441
+                ]
+            },
+            "properties": {
+                "name": "Marrensberg",
+                "object": "2693.224.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Karussell",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandspielgerät",
+                    "Turngerät",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.767.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_767_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.783312,
+                    9.424467
+                ]
+            },
+            "properties": {
+                "name": "Mathilde",
+                "object": "2693.225.1",
+                "attributes": [
+                    "Hüpfgerät",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Tor"
+                ],
+                "image_id": "2693.768.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_768_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.804575,
+                    9.421002
+                ]
+            },
+            "properties": {
+                "name": "Michelsenstraße",
+                "object": "2693.226.1",
+                "attributes": [
+                    "Brücke",
+                    "Federwipper",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Tischtennisplatte",
+                    "Wippe"
+                ],
+                "image_id": "2693.769.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_769_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.808983,
+                    9.477392
+                ]
+            },
+            "properties": {
+                "name": "Mistelhof",
+                "object": "2693.227.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Hängematte",
+                    "Tor"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.777153,
+                    9.439938
+                ]
+            },
+            "properties": {
+                "name": "Mühlendamm",
+                "object": "2693.207.1",
+                "attributes": [
+                    "Federwipper",
+                    "Schaukel",
+                    "Turngerät"
+                ],
+                "image_id": "2693.750.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_750_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.798888,
+                    9.486372
+                ]
+            },
+            "properties": {
+                "name": "Östliches-Sternenviertel",
+                "object": "2693.229.1",
+                "attributes": [
+                    "Kreisel",
+                    "Schaukel",
+                    "Seilbahn",
+                    "Turngerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.771.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_771_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.809404,
+                    9.46264
+                ]
+            },
+            "properties": {
+                "name": "Osterallee-Post",
+                "object": "2693.228.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Turngerät"
+                ],
+                "image_id": "2693.770.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_770_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.810764,
+                    9.429349
+                ]
+            },
+            "properties": {
+                "name": "Ostseebad",
+                "object": "2693.230.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Seilbahn",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Tor",
+                    "Volleyballfeld",
+                    "Wippe"
+                ],
+                "image_id": "2693.772.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_772_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.809095,
+                    9.423898
+                ]
+            },
+            "properties": {
+                "name": "Petrischule",
+                "object": "2693.231.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hängematte",
+                    "Karussell",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Wippe",
+                    "Überdachung"
+                ],
+                "image_id": "2693.773.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_773_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795935,
+                    9.455532
+                ]
+            },
+            "properties": {
+                "name": "Quartierspark",
+                "object": "2693.285.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Brücke",
+                    "Federwipper",
+                    "Rutsche",
+                    "Spielhaus",
+                    "Überdachung"
+                ],
+                "image_id": "2693.809.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_809_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.792904,
+                    9.430105
+                ]
+            },
+            "properties": {
+                "name": "Rummelgang",
+                "object": "2693.232.1",
+                "attributes": [
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Turngerät"
+                ],
+                "image_id": "2693.774.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_774_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.787937,
+                    9.47942
+                ]
+            },
+            "properties": {
+                "name": "Saturnbogen",
+                "object": "2693.233.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandspielgerät",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.775.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_775_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.810096,
+                    9.416345
+                ]
+            },
+            "properties": {
+                "name": "Schlagbaumweg",
+                "object": "2693.234.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Wippe"
+                ],
+                "image_id": "2693.776.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_776_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.789935,
+                    9.417311
+                ]
+            },
+            "properties": {
+                "name": "Schützenhof",
+                "object": "2693.235.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.777.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_777_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.797753,
+                    9.41951
+                ]
+            },
+            "properties": {
+                "name": "Schwarzental",
+                "object": "2693.236.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Sandspielgerät",
+                    "Multifunktionsgerät",
+                    "Tischtennisplatte",
+                    "Wippe"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.791825,
+                    9.432364
+                ]
+            },
+            "properties": {
+                "name": "Segelmacherstraße",
+                "object": "2693.237.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Wasserspiel"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.792304,
+                    9.479957
+                ]
+            },
+            "properties": {
+                "name": "Siriusbogen",
+                "object": "2693.238.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.778.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_778_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.82123,
+                    9.487478
+                ]
+            },
+            "properties": {
+                "name": "Solitüde Freilichtbühne",
+                "object": "2693.239.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Karussell",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Seilbahn",
+                    "Wippe",
+                    "Überdachung"
+                ],
+                "image_id": "2693.779.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_779_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.822096,
+                    9.488765
+                ]
+            },
+            "properties": {
+                "name": "Solitüde Strand",
+                "object": "2693.240.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hängematte",
+                    "Karussell",
+                    "Kreisel",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Volleyballfeld",
+                    "Wippe"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.808167,
+                    9.453955
+                ]
+            },
+            "properties": {
+                "name": "Sonwik",
+                "object": "2693.241.1",
+                "attributes": [
+                    "Spielturm",
+                    "Spielschiff"
+                ],
+                "image_id": "2693.780.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_780_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.758331,
+                    9.422182
+                ]
+            },
+            "properties": {
+                "name": "Sophienhof",
+                "object": "2693.242.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Balanciergerät",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Turngerät",
+                    "Tor"
+                ],
+                "image_id": "2693.781.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_781_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.802293,
+                    9.44541
+                ]
+            },
+            "properties": {
+                "name": "Stadion",
+                "object": "2693.243.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Federwipper",
+                    "Fitnessgerät",
+                    "Karussell",
+                    "Schaukel",
+                    "Sandspielgerät",
+                    "Seilbahn",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.782.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_782_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.788147,
+                    9.427696
+                ]
+            },
+            "properties": {
+                "name": "Stadtpark",
+                "object": "2693.244.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Sandspielgerät",
+                    "Multifunktionsgerät",
+                    "Wasserspiel",
+                    "Wippe"
+                ],
+                "image_id": "2693.783.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_783_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.806516,
+                    9.462458
+                ]
+            },
+            "properties": {
+                "name": "Stralsunder Straße",
+                "object": "2693.245.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät"
+                ],
+                "image_id": "2693.784.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_784_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.780537,
+                    9.485074
+                ]
+            },
+            "properties": {
+                "name": "Struvelücke",
+                "object": "2693.246.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Multifunktionsgerät",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.785.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_785_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.814829,
+                    9.474383
+                ]
+            },
+            "properties": {
+                "name": "Süderlücke",
+                "object": "2693.247.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Kreisel",
+                    "Multifunktionsgerät",
+                    "Schaukel",
+                    "Spieltisch"
+                ],
+                "image_id": "2693.786.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_786_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.805579,
+                    9.464985
+                ]
+            },
+            "properties": {
+                "name": "Südl. Ansgard Kirche",
+                "object": "2693.248.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Rutsche",
+                    "Schaukel"
+                ],
+                "image_id": "2693.787.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_787_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.774678,
+                    9.465741
+                ]
+            },
+            "properties": {
+                "name": "Sünderup Nord",
+                "object": "2693.249.1",
+                "attributes": [
+                    "Hüpfgerät",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Seilbahn",
+                    "Turngerät"
+                ],
+                "image_id": "2693.788.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_788_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.777892,
+                    9.459792
+                ]
+            },
+            "properties": {
+                "name": "Sünderuper Weg",
+                "object": "2693.250.1",
+                "attributes": [
+                    "Federwipper",
+                    "Karussell",
+                    "Rutsche",
+                    "Sandkasten"
+                ],
+                "image_id": "2693.789.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_789_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.758015,
+                    9.402934
+                ]
+            },
+            "properties": {
+                "name": "Sylter Platz",
+                "object": "2693.251.1",
+                "attributes": [
+                    "Federwipper",
+                    "Kreisel",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Turngerät"
+                ],
+                "image_id": "2693.790.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_790_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.779111,
+                    9.474699
+                ]
+            },
+            "properties": {
+                "name": "Tarup Süd",
+                "object": "2693.252.1",
+                "attributes": [
+                    "Karussell",
+                    "Kreisel",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Sandkasten",
+                    "Multifunktionsgerät"
+                ],
+                "image_id": "2693.791.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_791_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.776435,
+                    9.474195
+                ]
+            },
+            "properties": {
+                "name": "Tarup Süd/West",
+                "object": "2693.253.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Kreisel",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Tischtennisplatte",
+                    "Wippe"
+                ],
+                "image_id": "2693.792.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_792_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.777075,
+                    9.40478
+                ]
+            },
+            "properties": {
+                "name": "Thomas-Lorck-Weg",
+                "object": "2693.286.1",
+                "attributes": [
+                    "Federwipper",
+                    "Rutsche",
+                    "Schaukel"
+                ],
+                "image_id": "2693.810.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_810_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.797741,
+                    9.479281
+                ]
+            },
+            "properties": {
+                "name": "Uranusweg",
+                "object": "2693.254.1",
+                "attributes": [
+                    "Balanciergerät",
+                    "Karussell",
+                    "Rutsche",
+                    "Schaukel",
+                    "Spielhaus",
+                    "Multifunktionsgerät",
+                    "Tor",
+                    "Wippe"
+                ],
+                "image_id": "2693.793.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_793_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.770426,
+                    9.439069
+                ]
+            },
+            "properties": {
+                "name": "Valentinerhof",
+                "object": "2693.255.1",
+                "attributes": [
+                    "Turngerät"
+                ],
+                "image_id": "2693.794.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_794_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.792632,
+                    9.482692
+                ]
+            },
+            "properties": {
+                "name": "Venusbogen",
+                "object": "2693.256.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Schaukel",
+                    "Multifunktionsgerät",
+                    "Turngerät",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.795.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_795_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.781988,
+                    9.430856
+                ]
+            },
+            "properties": {
+                "name": "Voigtplatz",
+                "object": "2693.257.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kleinspielfeld"
+                ],
+                "image_id": "2693.796.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_796_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795552,
+                    9.44217
+                ]
+            },
+            "properties": {
+                "name": "Wasserturm",
+                "object": "2693.258.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hängematte",
+                    "Karussell",
+                    "Kreisel",
+                    "Klettergerät",
+                    "Rutsche",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Turngerät",
+                    "Tischtennisplatte",
+                    "Wasserspiel"
+                ],
+                "image_id": "2693.797.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_797_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.770318,
+                    9.430942
+                ]
+            },
+            "properties": {
+                "name": "Zur Bleiche",
+                "object": "2693.259.1",
+                "attributes": [
+                    "Basketballkorb",
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Multifunktionsgerät",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "2693.798.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_798_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.801229,
+                    9.419371
+                ]
+            },
+            "properties": {
+                "name": "Dicker Willis Koppel",
+                "object": "2693.260.1",
+                "attributes": "",
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.754808,
+                    9.416764
+                ]
+            },
+            "properties": {
+                "name": "Sophienhof",
+                "object": "2693.288.1",
+                "attributes": [
+                    "Rutsche",
+                    "Holzspielgerät",
+                    "Tor"
+                ],
+                "image_id": "2693.812.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_812_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.783186,
+                    9.458622
+                ]
+            },
+            "properties": {
+                "name": "Südlicher Holländerhof",
+                "object": "2693.281.1",
+                "attributes": "",
+                "image_id": "2693.804.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_804_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.775036,
+                    9.470826
+                ]
+            },
+            "properties": {
+                "name": "Tarup Südwest",
+                "object": "2693.261.1",
+                "attributes": "",
+                "image_id": "2693.803.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_803_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.792589,
+                    9.488062
+                ]
+            },
+            "properties": {
+                "name": "Vogelsang",
+                "object": "2693.287.1",
+                "attributes": "",
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.773533,
+                    9.432921
+                ]
+            },
+            "properties": {
+                "name": "Diblerstraße",
+                "object": "2693.298.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.788079,
+                    9.467511
+                ]
+            },
+            "properties": {
+                "name": "Dreiecksfläche",
+                "object": "2693.292.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche",
+                    "Basketballkorb",
+                    "Tischtennisplatte",
+                    "Überdachung"
+                ],
+                "image_id": "2693.814.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_814_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.791271,
+                    9.476277
+                ]
+            },
+            "properties": {
+                "name": "Freizeitpark Engelsby",
+                "object": "2693.293.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche",
+                    "Basketballkorb",
+                    "Rampe"
+                ],
+                "image_id": "2693.815.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_815_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.758238,
+                    9.392774
+                ]
+            },
+            "properties": {
+                "name": "Holzkrugweg",
+                "object": "2693.297.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche"
+                ],
+                "image_id": "2693.818.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_818_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.805428,
+                    9.417343
+                ]
+            },
+            "properties": {
+                "name": "Katharinenhof",
+                "object": "2693.264.1",
+                "attributes": [
+                    "Streetsoccerfeld"
+                ],
+                "image_id": "2693.801.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_801_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.800555,
+                    9.487306
+                ]
+            },
+            "properties": {
+                "name": "Kauslund",
+                "object": "2693.294.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche",
+                    "Basketballkorb",
+                    "Tischtennisplatte"
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.801204,
+                    9.493539
+                ]
+            },
+            "properties": {
+                "name": "Kauslundlücke",
+                "object": "2693.320.1",
+                "attributes": [
+                    "WeitereInformationenfolgen."
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.814239,
+                    9.41855
+                ]
+            },
+            "properties": {
+                "name": "Klueser Weg",
+                "object": "2693.295.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche"
+                ],
+                "image_id": "2693.816.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_816_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.782579,
+                    9.419253
+                ]
+            },
+            "properties": {
+                "name": "Marienallee",
+                "object": "2693.296.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche"
+                ],
+                "image_id": "2693.817.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_817_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.813423,
+                    9.477607
+                ]
+            },
+            "properties": {
+                "name": "Marrensberg",
+                "object": "2693.299.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche"
+                ],
+                "image_id": "2693.819.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_819_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.821372,
+                    9.487789
+                ]
+            },
+            "properties": {
+                "name": "Solitüde",
+                "object": "2693.315.1",
+                "attributes": [
+                    "WeitereInformationenfolgen."
+                ],
+                "image_id": "",
+                "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.771958,
+                    9.46772
+                ]
+            },
+            "properties": {
+                "name": "Sünderup-Hochfeld",
+                "object": "2693.291.1",
+                "attributes": [
+                    "Tor",
+                    "Spielfläche",
+                    "Basketballkorb"
+                ],
+                "image_id": "2693.813.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_813_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.789589,
+                    9.397758
+                ]
+            },
+            "properties": {
+                "name": "Fitness-Trail Marienhölzung",
+                "object": "2693.263.1",
+                "attributes": [
+                    "VerschiedeneBalanciergerätewiez.B.Wackelbalken"
+                ],
+                "image_id": "2693.800.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_800_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.802101,
+                    9.452523
+                ]
+            },
+            "properties": {
+                "name": "Fitnesspark Stadion",
+                "object": "2693.334.1",
+                "attributes": [
+                    "VerschiedeneFitnessgerätewiez.B.Fahrrad",
+                    "Balancierbalken",
+                    "Trainingswandund-stangen"
+                ],
+                "image_id": "2693.933.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_933_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795935,
+                    9.452641
+                ]
+            },
+            "properties": {
+                "name": "Vitalparcour Fruerlund",
+                "object": "2693.262.1",
+                "attributes": [
+                    "VerschiedeneFitnessgerätewiez.B.Beintrainer",
+                    "Ganzkörpertrainer",
+                    "Rückentrainer",
+                    "Schultertrainer",
+                    "Massagegerät"
+                ],
+                "image_id": "2693.799.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_799_1_t.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.795199,
+                    9.464936
+                ]
+            },
+            "properties": {
+                "name": "Hesttoft",
+                "object": "2693.210.1",
+                "attributes": [
+                    "Federwipper",
+                    "Hüpfgerät",
+                    "Karussell",
+                    "Kreisel",
+                    "Schaukel",
+                    "Sandkasten",
+                    "Seilbahn",
+                    "Sinnesspiel",
+                    "Multifunktionsgerät",
+                    "Wippe"
+                ],
+                "image_id": "2693.753.1",
+                "image": "https://www.tbz-flensburg.de/media/custom/2693_753_1_t.JPG"
+            }
+        }
+    ]
+}
