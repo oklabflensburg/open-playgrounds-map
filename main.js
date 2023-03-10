@@ -81,7 +81,12 @@ function marker(data) {
             })
         },
         pointToLayer: function (feature, latlng) {
-            return L.marker(latlng);
+            let label = String(feature.properties.address);
+
+            return L.marker(latlng).bindTooltip(label, {
+                permanent: false,
+                direction: 'top'
+            }).openTooltip();
         }
     });
 
