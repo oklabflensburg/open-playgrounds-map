@@ -75,13 +75,13 @@ function marker(data) {
                 }
 
                 document.getElementById('details').classList.remove('hidden');
-                document.getElementById('address').innerHTML = name;
                 document.getElementById('attributes').innerHTML = attributes;
+                document.getElementById('address').innerHTML = name;
                 document.getElementById('img').innerHTML = image;
             })
         },
         pointToLayer: function (feature, latlng) {
-            let label = String(feature.properties.address);
+            let label = String(feature.properties.name);
 
             return L.marker(latlng).bindTooltip(label, {
                 permanent: false,
