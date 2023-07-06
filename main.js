@@ -1,4 +1,4 @@
-fetch('./spielplaetze_flensburg.geojson', {
+fetch('./data/spielplaetze_flensburg.geojson', {
     method: 'GET'
 })
     .then((response) => {
