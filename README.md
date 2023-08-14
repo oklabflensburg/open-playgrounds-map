@@ -1,7 +1,7 @@
-# Open Playgrounds Map
+# Spielplätze der Stadt Flensburg
 
 
-![Screenshot interaktive Karte](https://raw.githubusercontent.com/p3t3r67x0/open-playgrounds/master/spielplaetze_in_flensburg.png)
+![Screenshot interaktive Karte](https://raw.githubusercontent.com/p3t3r67x0/open-playgrounds/master/spielplaetze_in_flensburg.jpg)
 
 
 _Haftungsausschluss: Dieses Repository und die zugehörige Datenbank befinden sich derzeit in einer Beta-Version. Einige Aspekte des Codes und der Daten können noch Fehler enthalten. Bitte kontaktieren Sie uns per E-Mail oder erstellen Sie ein Issue auf GitHub, wenn Sie einen Fehler entdecken._
