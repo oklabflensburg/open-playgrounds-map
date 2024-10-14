@@ -36,8 +36,8 @@ def main(src, dst):
             
         properties = {
             'place': o['place'],
-            'attributes': o['attributes'],
-            'image': o['image']
+            'address': o['address'],
+            'details': o['details']
         }
 
         fc.append(Feature(geometry=point, properties=properties))

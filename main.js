@@ -13,9 +13,10 @@ fetch('./data/spielplaetze_flensburg.geojson', {
 
 const map = L.map('map').setView([54.7836, 9.4321], 13)
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+L.tileLayer('https://tiles.oklabflensburg.de/sgm/{z}/{x}/{y}.png', {
+  maxZoom: 20,
+  tileSize: 256,
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map)
 
 let geocoder = L.Control.Geocoder.nominatim()
@@ -71,23 +72,14 @@ function marker(data) {
 
                 map.setView(e.latlng, 19)
 
+                let details = e.target.feature.properties.details
+                let address = e.target.feature.properties.address.replace(', ', '<br>')
                 let place = e.target.feature.properties.place
-                let attributes = e.target.feature.properties.attributes
-                let url = e.target.feature.properties.image
-                let image = ''
-
-                if (Array.isArray(attributes)) {
-                    attributes = attributes.join(', ')
-                }
-
-                if (url.length > 0) {
-                    image = '<img class="mt-1 mb-3" src="' + url + '" alt="Spielplatz">'
-                }
 
                 document.getElementById('details').classList.remove('hidden')
-                document.getElementById('attributes').innerHTML = attributes
-                document.getElementById('address').innerHTML = place
-                document.getElementById('img').innerHTML = image
+                document.getElementById('features').innerHTML = details
+                document.getElementById('address').innerHTML = address
+                document.getElementById('place').innerHTML = place
             })
         },
         pointToLayer: function (feature, latlng) {
