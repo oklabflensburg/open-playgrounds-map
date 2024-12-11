@@ -27,3 +27,19 @@ python3 retrieve_geometries.py --url https://tbz-flensburg.de/de/spielplaetze --
 python3 generate_geojson.py ../data/spielplaetze_flensburg.json ../data/spielplaetze_flensburg.geojson
 deactivate
 ```
+
+
+---
+
+
+## How to Contribute
+
+Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide for details on how to get involved.
+
+
+---
+
+
+## License
+
+This repository is licensed under [CC0-1.0](LICENSE).
